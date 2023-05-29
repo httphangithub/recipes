@@ -4,3 +4,4 @@
 - salt
 # Instructions
 reduce sugar
+- peel the avocados
